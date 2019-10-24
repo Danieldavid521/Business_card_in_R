@@ -1,0 +1,16 @@
+---
+email: "ddjachetta@mail.fhsu.edu"
+url: github.com/Danieldavid521
+address: | 
+logo: https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?auto=compress&cs=tinysrgb&h=600&w=1200
+person: 
+  - name: Daniel Jachetta
+    title: undergraduate at FHSU </br>
+           Network Operations Specialist at Commerce Bank
+    email: ddjachetta@mail.fhsu.edu
+# googlefonts: "Righteous" # feel free to try other fonts at https://fonts.google.com
+output: pagedown::business_card
+---
+
+
+
